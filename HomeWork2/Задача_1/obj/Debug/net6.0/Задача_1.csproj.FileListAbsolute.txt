@@ -1,0 +1,15 @@
+C:\Users\Кристина Р\Desktop\GeekBrains\3. С#\Семинары\Семинар 2\Домашнее задание 2\HomeWork2\Задача_1\bin\Debug\net6.0\Задача_1.exe
+C:\Users\Кристина Р\Desktop\GeekBrains\3. С#\Семинары\Семинар 2\Домашнее задание 2\HomeWork2\Задача_1\bin\Debug\net6.0\Задача_1.deps.json
+C:\Users\Кристина Р\Desktop\GeekBrains\3. С#\Семинары\Семинар 2\Домашнее задание 2\HomeWork2\Задача_1\bin\Debug\net6.0\Задача_1.runtimeconfig.json
+C:\Users\Кристина Р\Desktop\GeekBrains\3. С#\Семинары\Семинар 2\Домашнее задание 2\HomeWork2\Задача_1\bin\Debug\net6.0\Задача_1.dll
+C:\Users\Кристина Р\Desktop\GeekBrains\3. С#\Семинары\Семинар 2\Домашнее задание 2\HomeWork2\Задача_1\bin\Debug\net6.0\Задача_1.pdb
+C:\Users\Кристина Р\Desktop\GeekBrains\3. С#\Семинары\Семинар 2\Домашнее задание 2\HomeWork2\Задача_1\obj\Debug\net6.0\Задача_1.csproj.AssemblyReference.cache
+C:\Users\Кристина Р\Desktop\GeekBrains\3. С#\Семинары\Семинар 2\Домашнее задание 2\HomeWork2\Задача_1\obj\Debug\net6.0\Задача_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кристина Р\Desktop\GeekBrains\3. С#\Семинары\Семинар 2\Домашнее задание 2\HomeWork2\Задача_1\obj\Debug\net6.0\Задача_1.AssemblyInfoInputs.cache
+C:\Users\Кристина Р\Desktop\GeekBrains\3. С#\Семинары\Семинар 2\Домашнее задание 2\HomeWork2\Задача_1\obj\Debug\net6.0\Задача_1.AssemblyInfo.cs
+C:\Users\Кристина Р\Desktop\GeekBrains\3. С#\Семинары\Семинар 2\Домашнее задание 2\HomeWork2\Задача_1\obj\Debug\net6.0\Задача_1.csproj.CoreCompileInputs.cache
+C:\Users\Кристина Р\Desktop\GeekBrains\3. С#\Семинары\Семинар 2\Домашнее задание 2\HomeWork2\Задача_1\obj\Debug\net6.0\Задача_1.dll
+C:\Users\Кристина Р\Desktop\GeekBrains\3. С#\Семинары\Семинар 2\Домашнее задание 2\HomeWork2\Задача_1\obj\Debug\net6.0\refint\Задача_1.dll
+C:\Users\Кристина Р\Desktop\GeekBrains\3. С#\Семинары\Семинар 2\Домашнее задание 2\HomeWork2\Задача_1\obj\Debug\net6.0\Задача_1.pdb
+C:\Users\Кристина Р\Desktop\GeekBrains\3. С#\Семинары\Семинар 2\Домашнее задание 2\HomeWork2\Задача_1\obj\Debug\net6.0\Задача_1.genruntimeconfig.cache
+C:\Users\Кристина Р\Desktop\GeekBrains\3. С#\Семинары\Семинар 2\Домашнее задание 2\HomeWork2\Задача_1\obj\Debug\net6.0\ref\Задача_1.dll
